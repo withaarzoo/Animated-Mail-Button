@@ -1,5 +1,5 @@
 # Animated Mail Button
-A simple, animated mail button built using HTML and CSS. The button features an envelope icon that animates and transforms into a "check" icon when clicked, indicating that the mail has been sent successfully
+A simple, animated mail button built using HTML and CSS. The button features an envelope icon that animates and transforms into a "check" icon when clicked, indicating that the mail has been sent successfully.
 
 ## HTML
 This code creates an animated mail button using HTML and CSS. The HTML structure consists of a container element with a class of "letter-image", which contains several child elements that make up the different parts of the mail button.
